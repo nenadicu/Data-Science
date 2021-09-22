@@ -1,2 +1,4 @@
-# Data-Science
-Projects that I finished while learning data science
+# MNIST
+MNIST competition from kaggle
+
+Kaggle: https://www.kaggle.com/c/digit-recognizer
